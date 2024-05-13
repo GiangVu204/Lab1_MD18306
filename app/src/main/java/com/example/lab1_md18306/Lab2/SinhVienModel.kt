@@ -1,4 +1,4 @@
-package com.example.lab1_md18306
+package com.example.lab1_md18306.Lab2
 
 class SinhVienModel (var tenSV :  String, var mssv : String, var diemTB: Float) {
     var daTotNghiep : Boolean? = null
